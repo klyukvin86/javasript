@@ -1,0 +1,26 @@
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-ZSD2FWC4RT"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-ZSD2FWC4RT');
+</script>
+
+<meta name="yandex-verification" content="1866190ce7c4f299" />
+
+
+<!-- Begin Talk-Me {literal} -->
+<script>
+    (function(){(function c(d,w,m,i) {
+        window.supportAPIMethod = m;
+        var s = d.createElement('script');
+        s.id = 'supportScript'; 
+        var id = '0219c3e3f22fd926cf3ae11490e4cf9e';
+        s.src = (!i ? 'https://lcab.talk-me.ru/support/support.js' : 'https://static.site-chat.me/support/support.int.js') + '?h=' + id;
+        s.onerror = i ? undefined : function(){c(d,w,m,true)};
+        w[m] = w[m] || function(){(w[m].q = w[m].q || []).push(arguments);};
+        (d.head || d.body).appendChild(s);
+    })(document,window,'TalkMe')})();
+</script>
